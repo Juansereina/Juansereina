@@ -6,10 +6,9 @@ Web Developer
 
 I've been working as web developer for over 5 years, I really enjoy creating fun and creative experiences on the web.
 
-*   🌍  I'm based in Sabaneta, Colombia
+*   🌍  I'm based in Rionegro, Colombia
 *   🖥️  See my portfolio at [juansereina.com](http://juansereina.com)
 *   ✉️  You can contact me at [juansereina@outlook.com](mailto:juansereina@outlook.com)
-*   🧠  I'm learning Astro, tRCP and Svelte
 
 
 <a href="https://www.github.com/juansereina" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/juansereina?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
